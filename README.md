@@ -2,7 +2,7 @@
 #### Reader || Writer || Painter || Designer || Techie
 I am an undergrad in Computer Science and Engineering at Veer Surendra Sai University of Technology. I have experience in designing and social media and marketing. I love designing minimalistic content with deep impact. I would love to connect with you for more details.
 
-Skills: HTML || CSS || Javascript || C || C++ || Adobe XD || Python
+**Skills:** HTML || CSS || Javascript || C || C++ || Adobe XD || Python
 
 - 🔭 I’m currently working on React development 
 - 🌱 I’m currently learning REACT JS 
