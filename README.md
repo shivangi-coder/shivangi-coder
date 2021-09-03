@@ -10,7 +10,7 @@ I am an undergrad in Computer Science and Engineering at Veer Surendra Sai Unive
 - 🤔 I’m looking for help with cybersecurity projects 
 - 💬 Ask me about graphic designing, user experience 
 - 😄 Pronouns: She 
-- ⚡ Fun fact: If I could have any superpower, it would be   error free code in first attempt😄  
+- ⚡ Fun fact: Roses are #ff0000,Violets are #0000ff, If you understand this, You are a designer too😉  
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/shivangi-coder)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/shivangi-panda-51aa38193/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/ferocious.phoenix/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/@SHIVANGIPANDA1)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/@shiplusplus)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://shivangi-coder.github.io/Webdev.github.io/)  
